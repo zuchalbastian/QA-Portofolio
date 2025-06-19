@@ -99,4 +99,4 @@ MIT License – silakan gunakan, modifikasi, dan sebarkan dengan bebas selama me
 ---
 
 Terima kasih sudah mampir!  
-Untuk pertanyaan atau kolaborasi, hubungi saya di LinkedIn: [linkedin.com/in/zuchalbastian](https://www.linkedin.com/in/zuchalbastian)
+Untuk pertanyaan atau kolaborasi, hubungi saya di LinkedIn: [linkedin.com/in/zuchalbastian]([https://www.linkedin.com/in/zuchalbastian](https://www.linkedin.com/in/zuchal-ari-bastian-a88469195/))
